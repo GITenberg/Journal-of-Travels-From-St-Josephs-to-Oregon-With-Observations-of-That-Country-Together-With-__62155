@@ -1,5 +1,5 @@
 _repo: Journal-of-Travels-From-St-Josephs-to-Oregon-With-Observations-of-That-Country-Together-With-__62155
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Spalding, Henry Harmon
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42556'
     url: http://www.gutenberg.org/2009/agents/42556
     wikipedia: https://en.wikipedia.org/wiki/Henry_H._Spalding
+covers:
+- cover_type: archival
+  image_path: 62155-h/images/cover.jpg
 creator:
   author:
     agent_name: Root, Riley
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '51800'
     url: http://www.gutenberg.org/2009/agents/51800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62155#Journal-of-Travels-From-St-Josephs-to-Oregon-With-Observations-of-That-Country-Together-With-_
 gutenberg_issued: '2020-05-17'
 gutenberg_type: Text
 identifiers:
