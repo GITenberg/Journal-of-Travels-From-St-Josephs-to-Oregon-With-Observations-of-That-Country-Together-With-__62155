@@ -1,0 +1,39 @@
+_repo: Journal-of-Travels-From-St-Josephs-to-Oregon-With-Observations-of-That-Country-Together-With-__62155
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Spalding, Henry Harmon
+    alias: Spalding, H. H. (Henry Harmon)
+    birthdate: 1803
+    deathdate: 1874
+    gutenberg_agent_id: '42556'
+    url: http://www.gutenberg.org/2009/agents/42556
+    wikipedia: https://en.wikipedia.org/wiki/Henry_H._Spalding
+creator:
+  author:
+    agent_name: Root, Riley
+    birthdate: 1795
+    deathdate: 1870
+    gutenberg_agent_id: '51800'
+    url: http://www.gutenberg.org/2009/agents/51800
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Oregon Territory -- History'
+- !lcc 'F590.3'
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'Overland journeys to the Pacific'
+- GITenberg
+title: "Journal of Travels From St. Josephs to Oregon\r\nWith Observations of That\
+  \ Country, Together With Some Description of California, Its Agricultural Interests,\
+  \ and a Full Description of Its Gold Mines."
+url: http://www.gutenberg.org/ebooks/62155
